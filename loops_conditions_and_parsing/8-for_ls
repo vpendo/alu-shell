@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 #this is first loop
 for item in *
 do
@@ -8,5 +8,6 @@ do
  fi
  name_part=$(echo "$item" | cut -d '-' -f 2-)
  echo "$name_part"
- done
+done
+
  
