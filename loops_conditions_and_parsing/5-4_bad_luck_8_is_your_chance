@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#this is first loop
 count=1
 while [ $count -le 10 ]
 do
@@ -12,5 +13,6 @@ do
    echo "Best School"
    fi
    ((count++))
-   done
+done
+
    
