@@ -2,7 +2,9 @@
 #this is first loop
 i=0
 while [ $i -lt 10 ]
-echo "Best School"
- i=$((i+1))
- done
+do
+    echo "Best School"
+    i=$((i+1))
+done
+
  
