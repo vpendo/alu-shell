@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
-# This is first loop
-for ((i=1; i<=10; i++))
+counter=0
+until [ $counter -eq 10 ]
 do
- echo "Best School"
- done
+    echo "Best School."
+    ((counter++))
+done
+
  
