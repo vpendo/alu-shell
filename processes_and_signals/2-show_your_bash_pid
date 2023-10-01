@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# my name
+ps aux --forst|grep "bash"
+
+
+
