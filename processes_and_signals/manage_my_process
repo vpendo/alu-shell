@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# my last one
+while :
+do
+echo "I am alive!" >> /tmp/my_process
+slep 2
+done
