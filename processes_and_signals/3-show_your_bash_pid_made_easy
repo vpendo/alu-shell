@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # my success
-pgrep -1 bash
+pgrep-1bash
+
