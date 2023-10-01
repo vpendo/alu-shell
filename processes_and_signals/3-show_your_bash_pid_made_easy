@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # my success
-pgrep -f bash
+pgrep -l bash
+
 
 
 
